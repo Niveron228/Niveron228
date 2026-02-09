@@ -1,7 +1,7 @@
 # 💫 About Me:
 🔭 Working on C# and Java projects<br>
 👯 Looking to collaborate on small apps<br>
-🌱 Learning .NET, advanced C#, WPF, async programming, OOP<br>
+🌱 Learning C# / .NET, ASP.NET, Entity Framework,REST API, WPF, WinForms, Java / Spring Boot, async programming, OOP<br>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/galivartem) 
